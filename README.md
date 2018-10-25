@@ -1,1 +1,1 @@
-# Mathematical-Modeling
+# Mathematical Modeling Labs
