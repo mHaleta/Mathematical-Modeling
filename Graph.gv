@@ -1,0 +1,22 @@
+digraph {
+	graph [rankdir=LR]
+	S0
+	S1
+	S2
+	S3
+	S4
+	S5
+	S6
+	S1 -> S0 [label=3.7]
+	S0 -> S1 [label=3.79]
+	S2 -> S1 [label=7.4]
+	S1 -> S2 [label=3.79]
+	S3 -> S2 [label=7.4]
+	S2 -> S3 [label=3.79]
+	S4 -> S3 [label=7.4]
+	S3 -> S4 [label=3.79]
+	S5 -> S4 [label=7.4]
+	S4 -> S5 [label=3.79]
+	S6 -> S5 [label=7.4]
+	S5 -> S6 [label=3.79]
+}
